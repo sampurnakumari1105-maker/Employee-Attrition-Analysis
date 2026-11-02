@@ -1,0 +1,35 @@
+
+====================================
+     EMPLOYEE ATTRITION REPORT
+====================================
+
+Total Employees: 1470
+
+Employees Who Left: 237
+
+Employees Who Stayed: 1233
+
+Overall Attrition Rate: 16.12%
+
+----------- KEY FINDINGS -----------
+
+Department with Highest Attrition:
+Sales
+
+Salary Band with Highest Attrition:
+Low
+
+Tenure Group with Highest Attrition:
+0-2 Years
+
+----------- CONCLUSION -----------
+
+Employee attrition analysis helps
+organizations understand employee
+turnover patterns.
+
+Department, salary and years at
+company are useful factors for
+understanding employee attrition.
+
+====================================
